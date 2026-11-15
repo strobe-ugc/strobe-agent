@@ -1,0 +1,13 @@
+{
+  "name": "strobe",
+  "owner": { "name": "Strobe" },
+  "description": "Strobe video production for Claude Code",
+  "plugins": [
+    {
+      "name": "strobe",
+      "source": "./plugins/strobe",
+      "description": "Make characters, reference videos, and UGC videos with the Strobe command line",
+      "version": "0.1.0"
+    }
+  ]
+}

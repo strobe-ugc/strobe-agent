@@ -1,0 +1,6 @@
+{
+  "name": "strobe",
+  "description": "Make characters, reference videos, and UGC videos with the Strobe command line",
+  "version": "0.1.0",
+  "author": { "name": "Strobe" }
+}
